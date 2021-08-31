@@ -1,0 +1,40 @@
+*{
+    margin: 0px ;
+    padding: 0px ;
+  }
+  
+  .col{
+    display:flex;
+    
+  }
+  
+  .image {
+    float: left;
+    margin-left:10px;
+    width:40px;
+    height:40px;
+  }
+
+  .name{
+    font-size: larger;
+    margin-top:10px;
+    margin-left: 20px;
+    text-align: left;
+  }
+
+
+  .symbol{
+    font-size: smaller;
+    float:right;
+    margin:auto;
+    
+  }
+  
+
+  .red{
+    color : red;
+  }
+  
+  .green{
+    color : green;
+  }
