@@ -44,11 +44,11 @@
 
 
 
-table, th, td {
+/* table, th, td {
   table-layout: fixed;
    width: 100%;
   border:1px solid white;
-}
+} */
 
 
 
@@ -79,4 +79,28 @@ form input{
 .coins-search{
   margin:0px;
   align-self: right;
+}
+
+.res{
+  justify-content: center;
+}
+
+table{
+
+  height:inherit;
+  width:100%;
+}
+th, td {
+  width: fit-content;
+  height:auto;
+  
+}
+
+
+tr:nth-child(even) {background-color: #212529}
+
+.bst{
+  background-color: #212529;
+  border:none;
+  
 }

@@ -1,0 +1,21 @@
+.pf{
+    display:flex;
+    justify-content: space-between;
+    border: 1px solid #0d1013;
+    border-color: #0d1013;
+    border-radius: 10px;
+}
+.graph{
+    background-color: black ;
+    margin-right:2% ;
+}
+
+.pl{
+    text-align: left;
+    margin-left: 20px;
+
+}
+
+.h1{
+    text-align: center;
+}
